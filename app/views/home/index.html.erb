@@ -1,0 +1,23 @@
+<div class="jumbotron">
+    <h1 class="display-5">Weather App!</h1>
+    <p class="lead">Select your city to view the latest weather forecast.</p>
+    <hr class="my-2">
+    <p>.</p>
+    
+      <ul class="navbar-nav mr-auto">
+        
+        <li class="nav-item">
+          <% @weather_data.each do |city, data| %>
+            <%= link_to(city.titleize, city_path(name: city), class: 'nav-link') %>
+            <p>City: <%= city %></p>
+            <p>Temperature: <%= data[:temperature] %></p> 
+            <p>Current Weather: <%= data[:icon] %></p>
+          <% end %>
+        </li>
+      
+      </ul>
+  </div>
+
+  <br/>
+
+  

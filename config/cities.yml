@@ -1,0 +1,98 @@
+---
+# List of cities with coordinates
+cherkasy:
+  name: 'Cherkasy'
+  latitude: 49.444444
+  longitude: 32.059722
+chernihiv:
+  name: 'Chernihiv'
+  latitude: 51.5
+  longitude: 31.3
+chernivtsi:
+  name: 'Chernivtsi'
+  latitude: 48.3
+  longitude: 25.933333
+dnipro:
+  name: 'Dnipro'
+  latitude: 48.45
+  longitude: 34.983333
+donetsk:
+  name: 'Donetsk'
+  latitude: 48.002778
+  longitude: 37.805278
+ivano-frankivsk:
+  name: 'Ivano-Frankivsk'
+  latitude: 48.922778
+  longitude: 24.710556
+kharkiv:
+  name: 'Kharkiv'
+  latitude: 50.004444
+  longitude: 36.231389
+kherson:
+  name: 'Kherson'
+  latitude: 46.633333
+  longitude: 32.583333
+khmelnytskyi:
+  name: 'Khmelnytskyi'
+  latitude: 49.416667
+  longitude: 27
+kiev:
+  name: 'Kiev'
+  latitude: 50.45
+  longitude: 30.523333
+kropyvnytskyi:
+  name: 'Kropyvnytskyi'
+  latitude: 48.5
+  longitude: 32.266667
+luhansk:
+  name: 'Luhansk'
+  latitude: 48.566667
+  longitude: 39.333333
+lviv:
+  name: 'Lviv'
+  latitude: 49.83
+  longitude: 24.014167
+mykolaiv:
+  name: 'Mykolaiv'
+  latitude: 46.966667
+  longitude: 32
+odessa:
+  name: 'Odessa'
+  latitude: 46.485722
+  longitude: 30.743444
+poltava:
+  name: 'Poltava'
+  latitude: 49.589444
+  longitude: 34.551389
+rivne:
+  name: 'Rivne'
+  latitude: 50.616667
+  longitude: 26.25
+sumy:
+  name: 'Sumy'
+  latitude: 50.916667
+  longitude: 34.75
+ternopil:
+  name: 'Ternopil'
+  latitude: 49.566667
+  longitude: 25.6
+vinnytsia:
+  name: 'Vinnytsia'
+  latitude: 49.233333
+  longitude: 28.483333
+lutsk:
+  name: 'Lutsk'
+  latitude: 50.75
+  longitude: 25.335833
+uzhhorod:
+  name: 'Uzhhorod'
+  latitude: 48.623889
+  longitude: 22.295
+zaporizhia:
+  name: 'Zaporizhia'
+  latitude: 47.833333
+  longitude: 35.166667
+zhytomyr:
+  name: 'Zhytomyr'
+  latitude: 50.25
+  longitude: 28.666667
