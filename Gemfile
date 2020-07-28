@@ -20,7 +20,7 @@ gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.7'
 
 gem 'jquery-rails'
-gem 'json', '~> 2.2'
+gem 'json', '~> 2.3'
 gem 'darksky-api'
 
 # Use Redis adapter to run Action Cable in production
